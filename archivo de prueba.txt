@@ -1,0 +1,14 @@
+estos son los datos  de prueba
+comnadoscd desktop
+git clone pegar link desde la pagina de github
+
+entrar al nombre del proyecto
+git status
+ para subir
+
+git add.
+
+git status
+commentario para subir el archivo!!
+git commit -a
+presionar la tecla (i)
